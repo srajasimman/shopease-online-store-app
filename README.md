@@ -2,7 +2,7 @@
 
 A modern, full-featured e-commerce application built with React, TypeScript, and Tailwind CSS.
 
-![ShopEase Screenshot](https://github.com/user-attachments/assets/81bdfc24-405f-49a9-99e0-9547deedb741)
+![ShopEase Screenshot](https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ## Features
 
@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Live Demo
 
-Visit the live demo: [ShopEase Demo]([https://bright-valkyrie-52e686.netlify.app](https://srajasimman-shopease-online-store.netlify.app/))
+Visit the live demo: [ShopEase Demo](https://bright-valkyrie-52e686.netlify.app)
 
 ## Acknowledgments
 
